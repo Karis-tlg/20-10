@@ -1224,7 +1224,7 @@ body {
   padding: 15px;
   background: rgba(0, 0, 0, 0.6);
   border-radius: 10px;
-  font-family: 'Brush Script MT', cursive;
+  font-family: 'Quicksand', cursive;
   max-width: 90%;
   margin-left: auto;
   margin-right: auto;
@@ -1243,6 +1243,7 @@ body {
   .message {
     font-size: 1.2rem;
     margin-bottom: -150px;
+    font-family: 'Quicksand', cursive;
     /* Đảm bảo khoảng cách hợp lý giữa hoa và lời chúc trên thiết bị nhỏ */
   }
 }
