@@ -7,6 +7,6 @@ onload = () => {
     const messageElement = document.querySelector('.message');
     setTimeout(() => {
       messageElement.scrollIntoView({ behavior: 'smooth' });
-    }, 4000); // 4 giây delay để hoa nở xong
+    }, 7000); // 4 giây delay để hoa nở xong
   }, 1000);
 };
